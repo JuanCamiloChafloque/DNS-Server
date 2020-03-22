@@ -1,0 +1,13 @@
+$ORIGIN facebook.com
+facebook.com 1400 IN A 157.240.6.35
+$ORIGIN yahoo.com 
+yahoo.com 1367 IN A 72.30.35.9
+yahoo.com 1388 IN A 98.137.246.8
+yahoo.com 1270 IN A 98.137.246.7
+yahoo.com 1111 IN A 98.138.219.232
+yahoo.com 1308 IN A 98.138.219.231
+yahoo.com 1167 IN A 72.30.35.10
+$ORIGIN youtube.com
+youtube.com 1211 IN A 216.58.222.238
+$ORIGIN google.com
+google.com 1799 IN A 172.217.30.206
